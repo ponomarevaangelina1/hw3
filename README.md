@@ -1,2 +1,2 @@
 # hw3
-[Гугл-форма](https://docs.google.com/forms/d/1HLoiJa1rsgH4uwmF4cFRPwjOUg4cuO2kDXZ8hH9gTn8/edit#responses)
+Я составила [Гугл-форму](https://docs.google.com/forms/d/1HLoiJa1rsgH4uwmF4cFRPwjOUg4cuO2kDXZ8hH9gTn8/edit#responses) на тему "мультфильмы Nickelodeon". Опрос, в котором приняло участие 27 человек, позволяет определить, насколько хорошо люди знакомы с теми или иными мультсериалами. Далее я создала [таблицу ответов](https://docs.google.com/spreadsheets/d/1Ra_AN_lxNzl2mMQs43JBcCK2SgLo0a6oiv7yuD7jKSY/edit#gid=559533572&fvid=1472704794), где с помощью фильтра рассортировала отвечающих в алфавитном порядке.
